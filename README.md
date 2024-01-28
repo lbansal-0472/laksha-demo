@@ -1,4 +1,4 @@
 # laksha-demo
 This is my first Git Repository.
 <br>
-Author - Laksha Bansal 
+Author - Laksha Bansal (Chitkara University)  
